@@ -1,0 +1,5 @@
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\bin\Debug\Hospital.dll
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\bin\Debug\Hospital.pdb
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\obj\Debug\Hospital.dll
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\obj\Debug\Hospital.pdb
